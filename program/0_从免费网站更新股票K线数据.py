@@ -1,4 +1,6 @@
 # 此脚本用于购买网站数据后合并数据
+# 每天调用定时任务执行此文件，以获取最新的K线数据
+
 import requests
 
 from Functions import *
