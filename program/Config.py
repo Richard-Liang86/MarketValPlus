@@ -8,7 +8,7 @@ author: 邢不行
 import os
 
 # ===操作 回测 或者 选股
-operation = '选股'
+operation = '回测'
 
 # ===策略名
 strategy_name = '小市值_PEG'  # 小市值_量价优化  小市值_基本面优化  小市值_过滤优化  小市值_限定股票池
